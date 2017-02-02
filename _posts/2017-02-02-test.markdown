@@ -1,8 +1,18 @@
 ---
-title: Test post
+title: Test
 layout: post
 blog: true
 date: 2017-02-02 22:48
+
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+blog: true
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
 ### Heading
